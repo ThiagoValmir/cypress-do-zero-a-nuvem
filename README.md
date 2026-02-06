@@ -120,16 +120,6 @@ npm run test:mobile
 
 ---
 
-## Boas Práticas Aplicadas
-
-* Testes independentes e confiáveis
-* Uso de **fixtures** para dados de teste
-* **Custom Commands** para reutilização de código
-* Seletores estáveis (`data-cy`)
-* Organização clara por funcionalidades
-
----
-
 ## Execução na Nuvem (CI/CD)
 
 O projeto conta com uma pipeline de **CI/CD** configurada para:
